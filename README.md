@@ -34,5 +34,5 @@ Proyek ini merupakan bagian dari submission kelas Dicoding "Fundamental Deep Lea
 4. Google Colab + GPU T4
 5.pipreqs (untuk requirements.txt)
 
-##🚀 Catatan Tambahan
+## 🚀 Catatan Tambahan
 Proyek ini telah memenuhi seluruh kriteria utama dan seluruh saran tambahan submission Dicoding dan Format output telah disesuaikan untuk berbagai platform (mobile, web, server).
